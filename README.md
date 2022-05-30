@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Forster112
+- 👋 Hi, I’m UDEMEZUE FORSTER CHIDIEBERE
 - 👀 I’m interested in software engineering, web development
 - 🌱 I’m currently learning Front-end web development
 - 💞️ I’m looking to collaborate on world problem solving project

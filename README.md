@@ -5,7 +5,6 @@
 <h3 align="left">Interests:</h3>
 
 - 👀 I’m interested in Programming, backend and frontend web development
-- 🌱 I’m currently learning Software Engineering at ALX- Africa
 - 💞️ I’m looking to collaborate on, Web Development, Object Oriented Design, Mobile app development, and AI
 - 📫 How to reach me @chidi_forster on Twitter, Forster Michael on facebook
 

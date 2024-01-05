@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on, Web Development, Object Oriented Design, Mobile app development, and AI
 - 📫 How to reach me @chidi_forster on Twitter, Forster Michael on facebook
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?Forster112ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h1 align="center">📫 How to reach me:</h3>
 <p align="left">
